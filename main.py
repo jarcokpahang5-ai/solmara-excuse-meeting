@@ -7,7 +7,7 @@ library, deterministic, no network access.
 
 import os
 
-LINE = "My dog ate my meeting invite — and honestly, after seeing the agenda, I let him finish the whole thing."
+LINE = "My dog ate my meeting invite — and after one look at the agenda, I let him finish it."
 
 
 def main():
